@@ -4,6 +4,7 @@ A Caesar cipher, or a shift cipher, is one of the simplest encryption techniques
 
 For example, if I wanted to encrypt the message `ECHO` using a left shift of 3, I would rewrite each character by shifting the entire alphabet left by 3 characters. Using the chart and key below, we can see that `E -> B`, `C -> Z`, `H -> E`, and `O -> L`. So `ECHO` becomes `BZEL`.
 ![Pasted image 20231227102315](https://github.com/gormes-EPIC/FileIO-CSV-DSF/assets/134316348/36015604-5669-475c-a8c6-3d4674da98d4)
+
 Plaintext:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Ciphertext: XYZABCDEFGHIJKLMNOPQRSTUVW
 
